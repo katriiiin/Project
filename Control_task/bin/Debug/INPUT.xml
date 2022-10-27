@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<animals>
+  <animal name ="dog">
+    <nickname>Teddy</nickname>
+    <age>3</age>
+    <color>black</color>
+  </animal>
+  
+  <animal name ="cat">
+    <nickname>Tom</nickname>
+    <age>8</age>
+    <color>white</color>
+  </animal>
+  
+  <animal name ="rabbit">
+    <nickname>Shelly</nickname>
+    <age>1</age>
+    <color>beige</color>
+  </animal>
+  
+  </animals>
